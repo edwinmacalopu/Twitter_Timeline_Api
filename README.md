@@ -1,5 +1,9 @@
 # Flutter Twitter Timeline Api
 ![Alt Text](https://raw.githubusercontent.com/edwinmacalopu/google_maps_rule/master/mapsrule.gif?raw=true)
+
+##### Keys:
+keys are obtained from the twitter developer page https://developer.twitter.com/
+
 ##### Important:
 add the Twitter key in the route:
 ```sh
