@@ -5,10 +5,10 @@ import 'package:twitter_api/twitter_api.dart';
 class Apitwitter{
 
 final _twitterOauth = new twitterApi(
-  consumerKey: "IXkOp3SDBJT2wkF8IP7WcXWCw",
-  consumerSecret: "Y785F9QTxGYLBvuESARExxxi8DOduKR0iw3TaIhVrBaCSeBLBS",
-  token: "395651673-6ULAkTt1Jo8dBTRKCF1UNckAYd5iIToVX3InwRRJ",
-  tokenSecret: "cLBmiMIF1Pox3H9YGmUex9f0n1776uRZklLhqMbpwYlGg"
+  consumerKey: "consumerKey",
+  consumerSecret: "consumerSecret",
+  token: "consumerSecret",
+  tokenSecret: "tokenSecret"
 );
 
 Future<List> getTwitterTimeline()async{
